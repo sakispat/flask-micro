@@ -1,0 +1,7 @@
+# General
+env/
+.env
+*__
+
+# GitHub Pushing
+push.sh
